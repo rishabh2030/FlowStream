@@ -1,6 +1,5 @@
-## Demo: https://tiktik-nextjs.vercel.app/
+## Demo: https://tiktikclone-nine.vercel.app/
 ## Getting Started to run my project local
-
 First, run the development server:
 
 ```bash
